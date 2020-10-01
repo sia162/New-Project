@@ -2,6 +2,7 @@
 int main()
 {
     int a=0, num, b=1,c;
+	printf("enter a number");
     printf("Enter a number greater than 0: ");
     scanf("%d",& num);
     if(num==1)
